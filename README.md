@@ -29,8 +29,8 @@ Zorg dat de lijst van Actors opgehaald en getoond wordt in de interface. Gebruik
 
 Maak een knop die een acteur toevoegd aan de lijst. 
 
-## Deel 4 
-Verwijder de knop om de details van een acteur aan te passen. 
+## Deel 5 
+Verwijder de knop om de details van een acteur aan te passen op de detailpagina. 
 
 Voeg een TapGesture toe zodat je kan klikken op een item in de lijst om naar de detail pagina te navigeren. 
 
@@ -38,7 +38,7 @@ Experimenteer met de compiled binding.
 
 ![assets/screen4.png](assets/screen4.png)
 
-## Deel 5 
+## Deel 6 
 Maak een converter die het geboortejaar omzet naar een leeftijd in jaren. 
 
 Pas deze toe op de detailpagina van een acteur.
