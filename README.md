@@ -25,7 +25,7 @@ Op de ActorDetailPage is een knop voorzien die een wijziging zou moeten aanbreng
 ## Deel 4 
 Maak van de ActorsPage de hoofdpagina van de applicatie. 
 
-Zorg dat de lijst van Actors opgehaald en getoond wordt in de interface. 
+Zorg dat de lijst van Actors opgehaald en getoond wordt in de interface. Gebruik hiervoor de InMemoryActors-klasse.
 
 Maak een knop die een acteur toevoegd aan de lijst. 
 
